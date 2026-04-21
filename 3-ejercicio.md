@@ -48,6 +48,4 @@ docker run -d \
 ### Personalizar la apariencia de wordpress y agregar una entrada
 
 ### Eliminar el contenedor y crearlo nuevamente, ¿qué ha sucedido?
-
-# COMPLETAR CON LA RESPUESTA A LA PREGUNTA 
-
+La entrada que inlcuí se sigue mostrando igual que antes de eliminarlo, nada ha cambiado ya que los datos se guardaron con bind mount.
